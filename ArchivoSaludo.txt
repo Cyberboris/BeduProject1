@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 #Thi is my Title and content and descriptions
 
 Hola Mundo
+=======
+Hola Mundo
+
+#Mi nombe es Efren y estudie ingenieria en sistemas
+>>>>>>> develop
