@@ -2,3 +2,4 @@
 //ignoring all .jpeg
 
 *.jpeg
+*.DS_Store
